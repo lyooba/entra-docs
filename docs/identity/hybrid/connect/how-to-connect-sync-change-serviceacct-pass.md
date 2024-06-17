@@ -79,7 +79,7 @@ Abandon the existing encryption key so that new encryption key can be created:
 
 3. Navigate to folder: `'$env:ProgramFiles\Microsoft Azure AD Sync\bin\'`
 
-4. Run the command: `./miiskmu.exe /a`
+4. Run the command: `.\miiskmu.exe /a`
 
 ![Screenshot that shows PowerShell after running the command.](./media/how-to-connect-sync-change-serviceacct-pass/key5.png)
 
